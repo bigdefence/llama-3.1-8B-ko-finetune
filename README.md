@@ -90,9 +90,6 @@ pip install --no-deps packaging ninja einops flash-attn xformers trl peft accele
 4. Branch에 Push합니다 (`git push origin feature/AmazingFeature`).
 5. Pull Request를 생성합니다.
 
-## 📜 라이선스
-
-이 프로젝트는 MIT 라이선스 하에 배포됩니다. 자세한 내용은 [`LICENSE`](LICENSE) 파일을 참조하세요.
 
 ## 📞 연락처
 
