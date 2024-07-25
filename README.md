@@ -1,4 +1,4 @@
-# 🚀 Unsloth로 가속화된 한국어 LLM 파인튜닝 프로젝트
+# 🚀 LLaMA-3.1-8B한국어 LLM 파인튜닝 
 
 [![Python](https://img.shields.io/badge/Python-3.7%2B-blue)](https://www.python.org/)
 [![PyTorch](https://img.shields.io/badge/PyTorch-2.2.1%2B-red)](https://pytorch.org/)
