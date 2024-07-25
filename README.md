@@ -98,7 +98,7 @@ pip install --no-deps packaging ninja einops flash-attn xformers trl peft accele
 
 프로젝트 관리자 - bigdefence@naver.com
 
-프로젝트 링크: [[https://github.com/bigdefence/unsloth-finetune](https://github.com/bigdefence/llama-3.1-8B-ko-finetune/tree/main)]([https://github.com/bigdefence/unsloth-finetune](https://github.com/bigdefence/llama-3.1-8B-ko-finetune/tree/main))
+프로젝트 링크: [[https://github.com/bigdefence/unsloth-finetune](https://github.com/bigdefence/llama-3.1-8B-ko-finetune/tree/main)]
 
 ---
 
