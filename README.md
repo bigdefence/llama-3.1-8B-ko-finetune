@@ -30,6 +30,8 @@
 - 🛠 **LoRA 기법**: 효율적인 파인튜닝을 위한 Low-Rank Adaptation 활용
 - 📊 **커스텀 데이터셋**: 특화된 한국어 데이터로 정확도 향상
 - 🌐 **간편한 배포**: Hugging Face Hub 연동으로 손쉬운 모델 공유
+## 데이터셋 
+- MarkrAI/KoCommercial-Dataset(HugginFace)
 
 ## 🚀 시작하기
 
@@ -89,7 +91,6 @@ pip install --no-deps packaging ninja einops flash-attn xformers trl peft accele
 3. 변경사항을 Commit합니다 (`git commit -m 'Add some AmazingFeature'`).
 4. Branch에 Push합니다 (`git push origin feature/AmazingFeature`).
 5. Pull Request를 생성합니다.
-
 
 ## 📞 연락처
 
