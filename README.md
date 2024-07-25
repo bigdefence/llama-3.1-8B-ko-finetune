@@ -6,7 +6,7 @@
 [![License](https://img.shields.io/badge/License-MIT-yellow)](LICENSE)
 
 *한국어 LLM의 힘을 극대화하세요! 🇰🇷✨*
-# 파인튜닝한 모델은 Hugging Face [bigdefence/Llama-3.1-8B-Ko-bigdefence](https://huggingface.co/bigdefence/Llama-3.1-8B-Ko-bigdefence)에서 사용해 보실 수 있습니다.
+## 파인튜닝한 모델은 Hugging Face [bigdefence/Llama-3.1-8B-Ko-bigdefence](https://huggingface.co/bigdefence/Llama-3.1-8B-Ko-bigdefence)에서 사용해 보실 수 있습니다.
 
 ## 📚 목차
 - [프로젝트 개요](#-프로젝트-개요)
