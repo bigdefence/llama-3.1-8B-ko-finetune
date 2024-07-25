@@ -54,7 +54,7 @@ pip install --no-deps packaging ninja einops flash-attn xformers trl peft accele
 1. **데이터 준비**
    ```bash
    from datasets import load_dataset
-  dataset = load_dataset("MarkrAI/KoCommercial-Dataset", split = "train")
+   dataset = load_dataset("MarkrAI/KoCommercial-Dataset", split = "train")
    ```
 
 2. **모델 학습**
